@@ -7,4 +7,4 @@ WIP
 ### **Que son los tributos?**
 Marcas de membresia
 
-![[Pasted image 20260921141658.png]]
+![image](https://avatars.githubusercontent.com/u/103302601?v=4) 
