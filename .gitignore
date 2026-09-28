@@ -1,0 +1,22 @@
+# Secretos y entorno local
+.env
+*.local
+# Python / Django
+__pycache__/
+*.py[cod]
+.venv/
+*.sqlite3
+staticfiles/
+# Node / Frontend
+node_modules/
+dist/
+build/
+.next/
+.angular/
+.vite/
+# Editores y SO
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
