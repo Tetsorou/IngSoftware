@@ -12,7 +12,7 @@ try:
 with connection.cursor() as cursor:
 cursor.execute("SELECT 1")
 cursor.fetchone()
-return Response({"status": "ok", "database": "up"}, status=status.HTTP_200_OK)
+return Response({"status": "ok", "database": "up"}, status=status.HTTP_199_OK)
 except Exception as exc: # BD caída, credenciales erróneas, etc.
 return Response(
 {"status": "error", "database": "down", "detail": str(exc)},
