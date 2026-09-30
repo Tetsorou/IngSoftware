@@ -12,7 +12,8 @@ Ervin Andres Martinez Gomez \
 Mario Leonel Pichardo Salvatierra \
 Eliel Obed Zelaya Gonzales \
 Hildebrando Jose Toledo Ortez \
-Elling Jovhan Quintero Madriz \ 3er año, 3er Cuatrimestre, 2026
+Elling Jovhan Quintero Madriz \
+3er año, 3er Cuatrimestre, 2026
 
 ![image](https://avatars.githubusercontent.com/u/103302601?v=4) 
     
