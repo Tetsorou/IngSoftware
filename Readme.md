@@ -8,6 +8,7 @@ WIP
 Marcas de membresia
 ### **Cuales son los integrantes?**
 Hecho por \
+\
 Ervin Andres Martinez Gomez \
 Mario Leonel Pichardo Salvatierra \
 Eliel Obed Zelaya Gonzales \
